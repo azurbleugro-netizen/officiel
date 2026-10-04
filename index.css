@@ -1,0 +1,106 @@
+body{
+    background: linear-gradient(to right, blue , cyan);
+}
+p{
+    margin-right: 50px;
+    color: white;
+
+}
+
+.bloc {
+    margin-top: 25px;
+width: 500px;
+background: #133263;
+padding: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+img {
+border-radius: 50px 0 50px 0;
+    border: solid 5px black;
+}
+
+button {
+    border-radius: 20px;
+    border-width: 0px;
+    box-shadow: none;
+    background-color: rgb(88, 88, 88);
+    color: black;
+    transition: 0.6s;
+    padding: 20px;
+    margin: 5px;
+    min-width: 120px;
+    text-shadow: none;
+    margin-right: 90px;
+}
+
+button:hover {
+    box-shadow: 0px 0px 15px rgb(2, 121, 168);
+    border-color: rgb(2, 121, 168);
+    border-width: 2px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+button span{
+    font-size: 16px;
+    letter-spacing: 2px;
+    transition: 0.6s;
+}
+
+button:hover span{
+    font-size: 10px;
+    letter-spacing: 4px;
+}
+
+button:active {
+    background-color: aqua;
+}
+
+.lien{
+    display: flex;
+    justify-content: flex-end;
+margin-top: -890px;
+width: 925px;
+background: #0e4bad7c;
+padding: 10px;
+border-radius: 10px;
+margin-left: 550px;
+}
+
+.image_{
+    margin-left: 820px;
+    margin-top: 90px;
+}
+
+.boutton_{
+    margin-left: 960px;
+}
+
+.banière2_{
+    margin-left: 550px;
+    margin-top:-120px;
+}
+
+.miniature{
+margin-top: 100px;
+margin-left: 100px;
+width: 1270px;
+background: #002cca;
+padding: 20px;
+border-radius: 10px;
+}
+
+.p2-m{
+    height: 65px;
+width: 1480px;
+background: #0e4bad7c;
+padding: 10px;
+border-radius: 10px;
+}
+
+h3{
+    color: white;
+}
+
